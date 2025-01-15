@@ -1,4 +1,4 @@
-chat.openai.com
+*.openai.com
 gemini.google.com
 www.anthropic.com
 bard.google.com
@@ -8,7 +8,6 @@ www.perplexity.ai
 www.you.com
 www.copy.ai
 rytr.me
-writesonic.com/chatsonic
 platform.openai.com
 replika.ai
 deepai.org
@@ -19,6 +18,6 @@ www.synthesia.io
 open-assistant.io
 pi.ai
 chatbase.co
-chat.mistral.ai
+*.mistral.ai
 character.ai
 blackbox.ai
